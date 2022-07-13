@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm ِAhmed Hussien</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=1000&center=true&vCenter=true&multiline=true&width=500&height=500&lines=Ai+Developer;raspberry+pi+developer+;django+developer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **Business intelligence and deep learning**
 
 - 💬 Ask me about **Data analysis, machine learning, deep learning, Raspberry Pi and Python**
 
 - 📫 How to reach me **ahmedintly@gmail.com**
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=1000&center=true&vCenter=true&multiline=true&width=500&height=500&lines=Ai+Developer;raspberry+pi+developer+;django+developer)](https://git.io/typing-svg)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
