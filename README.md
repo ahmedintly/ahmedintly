@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ِAhmed Hussien</h1>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=38&duration=3000&center=true&vCenter=true&multiline=true&width=500&height=200&lines=Ai+Developer;raspberry+pi+developer+;django+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=38&duration=3000&center=true&multiline=true&width=500&height=200&lines=Ai+Developer;raspberry+pi+developer+;django+developer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **Business intelligence and deep learning**
 
