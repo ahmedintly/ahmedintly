@@ -3,6 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=38&duration=3000&color=6AFFB8&center=true&multiline=true&width=500&height=200&lines=Ai+Developer;raspberry+pi+developer+;django+developer)](https://git.io/typing-svg)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedintly&theme=tokyonight&utcOffset=8)
+
 - 🌱 I’m currently learning **Business intelligence and deep learning**
 
 - 💬 Ask me about **Data analysis, machine learning, deep learning, Raspberry Pi and Python**
