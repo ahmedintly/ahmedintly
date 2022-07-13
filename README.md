@@ -28,3 +28,6 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedintly&theme=tokyonight)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedintly&theme=tokyonight)
